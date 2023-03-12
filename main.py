@@ -1,6 +1,5 @@
 import pygame
 import SET
-import Main_GRAPHICS
 import random
 class MainGame:
     window=None
