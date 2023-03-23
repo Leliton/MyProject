@@ -1,0 +1,5 @@
+import pygame
+WINDOW_SIZE = pygame.Rect(0,0,1280,720)
+FRAME_PER_SEC = 60
+BG_COLOR = (100,100,100)
+TEXT_COLOR = (200,200,50)
